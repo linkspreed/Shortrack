@@ -52,16 +52,16 @@ for our developers, users and anyone who comes into contact with ([Linkspreed ðŸ
 
 
 ### Smart and powerful short links
-<img align="center" alt="Shortrack" width="3000px" src="https://github.com/linkspreed/Shortrack/blob/main/screenshots/1.PNG" draggable="false" />
+<img align="center" alt="Shortrack" width="3000px" src="https://github.com/linkspreed/Shortrack/blob/main/Screenshots/1.PNG" draggable="false" />
 
 ### Features
-<img align="center" alt="Shortrack" width="3000px" src="https://github.com/linkspreed/Shortrack/blob/main/screenshots/2.PNG" draggable="false" />
+<img align="center" alt="Shortrack" width="3000px" src="https://github.com/linkspreed/Shortrack/blob/main/Screenshots/2.PNG" draggable="false" />
 
 ### Link management
-<img align="center" alt="Shortrack" width="3000px" src="https://github.com/linkspreed/Shortrack/blob/main/screenshots/3.PNG" draggable="false" />
+<img align="center" alt="Shortrack" width="3000px" src="https://github.com/linkspreed/Shortrack/blob/main/Screenshots/3.PNG" draggable="false" />
 
 ### Statistics
-<img align="center" alt="Shortrack" width="3000px" src="https://github.com/linkspreed/Shortrack/blob/main/screenshots/4.PNG" draggable="false" />
+<img align="center" alt="Shortrack" width="3000px" src="https://github.com/linkspreed/Shortrack/blob/main/Screenshots/4.PNG" draggable="false" />
 
 ### Integrations
-<img align="center" alt="Shortrack" width="3000px" src="https://github.com/linkspreed/Shortrack/blob/main/screenshots/5.PNG" draggable="false" />
+<img align="center" alt="Shortrack" width="3000px" src="https://github.com/linkspreed/Shortrack/blob/main/Screenshots/5.PNG" draggable="false" />
