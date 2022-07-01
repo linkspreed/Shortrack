@@ -51,17 +51,17 @@ for our developers, users and anyone who comes into contact with ([Linkspreed ðŸ
 ## ðŸ“· UI
 
 
-### Privacy focused web analytics
+### Smart and powerful short links
 <img align="center" alt="Shortrack" width="3000px" src="https://github.com/linkspreed/Shortrack/blob/main/screenshots/1.PNG" draggable="false" />
 
-### Analytics
+### Features
 <img align="center" alt="Shortrack" width="3000px" src="https://github.com/linkspreed/Shortrack/blob/main/screenshots/2.PNG" draggable="false" />
 
-### Register now
+### Link management
 <img align="center" alt="Shortrack" width="3000px" src="https://github.com/linkspreed/Shortrack/blob/main/screenshots/3.PNG" draggable="false" />
 
-### Dashboard
+### Statistics
 <img align="center" alt="Shortrack" width="3000px" src="https://github.com/linkspreed/Shortrack/blob/main/screenshots/4.PNG" draggable="false" />
 
-### Add a new website
+### Integrations
 <img align="center" alt="Shortrack" width="3000px" src="https://github.com/linkspreed/Shortrack/blob/main/screenshots/5.PNG" draggable="false" />
