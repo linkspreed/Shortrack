@@ -1,11 +1,11 @@
-# <img align="left" alt="Twitter" width="40px" src="https://analytix.tk/uploads/brand/ys17CmIE61mY5SrzlKBu2UbanlIvzwW2l7qmb9PX.png" draggable="false" /> Analytix ([Click to try 🚀](https://analytix.tk/))
+# <img align="left" alt="Shortrack" width="40px" src="https://shortrack.tk/uploads/brand/logo.svg" draggable="false" /> Shortrack ([Click to try 🚀](https://shortrack.tk/))
 
-Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
+Shortrack🚀 - Create short links and track 🛤️your visitors for analysis.😊
 
 
 
-## **[Changelog 💙](https://github.com/linkspreed/Analytix/blob/main/changelog.md)** **Check out the full Analytix changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Analytix/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Analytix besides development**
+## **[Changelog 🚀](https://github.com/linkspreed/Shortrack/blob/main/changelog.md)** **Check out the full Shortrack changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Shortrack/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Shortrack besides development**
 
 
 <div align="center">
