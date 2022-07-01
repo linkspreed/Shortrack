@@ -15,38 +15,21 @@ Shortrack🚀 - Create short links and track 🛤️your visitors for analysis.�
 
 ## Features
 
-**DASHBOARD** – Get an overview of your account and your tracked websites.
+**DASHBOARD** – Get the account overview at a glance. Quickly manage your latest or most popular Links.
 
-**STATS** – Get specific statistics & analytics reports for a website:
-- Realtime
-- Overview
-- Behavior
-    - Pages
-    - Landing pages
-    
--Acquisitions
-    - Referrers
-    - Search engines
-    - Social networks
-    - Campaigns
-    
-- Geographic
-    - Continents
-    - Countries
-    - Cities
-    - Languages
-    
-- Technology
-    - Operating systems
-    - Browsers
-    - Screen resolutions
-    - Devices
-    
-- Events
+**LINKS** – Shorten links, one at a time, or in bulk. Add custom aliases, protect them with passwords, set expiration dates, custom targeting rules and more.
 
-**EXPORT** – Export your statistics & analytics reports in CSV format.
+**SPACES** – Organize your links into Spaces to easily manage them. Color code your spaces to recognize them at a glance.
 
-**NOTIFICATIONS** – Get periodic emails about your websites performance.
+**DOMAINS** – Brand your links with your own domains and increase your click-through rate with up to 35% more.
+
+**PIXELS** – Retarget your audience and increase your conversion rates by implementing retargeting pixels in your links.
+
+**STATS** – Get analytics insights for your links about your audience Overview, Referrers, Countries, Cities, Languages, Platforms, Browsers, and Devices.
+
+**EXPORT** – Export your links or link’s stats in CSV format.
+
+**SHARING** – Share the links you create via Email, QR code, or trough the most popular social networks: Twitter, Facebook, Reddit, Pinterest, LinkedIn.
 
 **AND SO MUCH MORE ...**
 
