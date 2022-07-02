@@ -1,3 +1,17 @@
+# 4.5.0 — 02 July 2022
+ - Added new payment gateway: Paystack (checkout using a credit card)
+ - Added new payment gateway: Razorpay (checkout using a credit card)
+ - Added new payment gateway: Crypto.com (checkout using a cryptocurrency)
+ - Added Two-factor Authentication system
+ - Added Webhooks on User Store, Update, and Delete events
+ - Added the ability to add both light and dark mode logos
+ - Added the ability to create coupons with unlimited quantity number
+ - Added Bad Words filter for the Link Aliases
+ - Updated all the dependencies to their latest versions
+ - Fixed an issue that could cause Payments and Invoices to be duplicated
+ - Fixed an issue that would immediately remove the User's plan features after cancellation
+ - Other minor improvements
+
 # 4.4.0 — 20 April 2022
  - Added the ability to customize the Crawler's User-Agent
  - Fixed the Bad Words filter not applying to Links created by Guests
