@@ -1,4 +1,4 @@
-# <img align="left" alt="Shortrack" width="40px" src="https://shortrack.tk/uploads/brand/logo.svg" draggable="false" /> Shortrack ([Click to try 🚀](https://shortrack.tk/))
+# <img align="left" alt="Shortrack" width="40px" src="https://user-images.githubusercontent.com/102324985/197024499-b937a1ac-3c67-4318-9a75-fd0478920dee.png" draggable="false" /> Shortrack ([Click to try 🚀](https://shortrack.tk/))
 
 Shortrack🚀 - Create short links and track 🛤️your visitors for analysis.😊
 
