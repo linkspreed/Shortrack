@@ -1,4 +1,7 @@
 ### 20.10.2022 (announcement Shortrack)
+- The code for **Shortrack** v4.8.0 is ready for launch.
+
+### 20.10.2022 (announcement Shortrack)
 - We are proud to finally be able to announce that the development work on version 4.8.0 for **Shortrack** has been successfully completed.
 
 # 01.07.2022
