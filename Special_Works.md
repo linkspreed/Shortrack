@@ -1,4 +1,7 @@
 ### 20.10.2022 (announcement Shortrack)
+- We are now beginning the launch of version 4.8.
+
+### 20.10.2022 (announcement Shortrack)
 - The servers are ready for the launch of v4.8.0.
 
 ### 20.10.2022 (announcement Shortrack)
