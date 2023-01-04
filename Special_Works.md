@@ -1,4 +1,7 @@
 ### 04.01.2023 (announcement Shortrack)
+- We are now starting the launch of v4.9.0.
+
+### 04.01.2023 (announcement Shortrack)
 - The servers are now ready for the launch of version 4.9.0 for **Shortrack**.
 
 ### 04.01.2023 (announcement Shortrack)
