@@ -1,4 +1,9 @@
 ### 04.01.2023 (announcement Shortrack)
+- The launch of version 4.9.0 of **Shortrack** was successful! 🥳
+- The new update is live now :)
+- https://shortrack.tk 🔗
+
+### 04.01.2023 (announcement Shortrack)
 - We are now starting the launch of v4.9.0.
 
 ### 04.01.2023 (announcement Shortrack)
