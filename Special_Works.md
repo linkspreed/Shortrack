@@ -1,3 +1,6 @@
+### 04.01.2023 (announcement Shortrack)
+- We won't let **Shortrack** go under and will of course continue to support the platform!
+
 ### 20.10.2022 (announcement Shortrack)
 - We are now beginning the launch of version 4.8.
 
