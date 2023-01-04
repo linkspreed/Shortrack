@@ -1,4 +1,7 @@
 ### 04.01.2023 (announcement Shortrack)
+- **Shortrack** development work is complete until the next update! 😎
+
+### 04.01.2023 (announcement Shortrack)
 - This is the new **Shortrack** logo!
 - https://user-images.githubusercontent.com/102324985/210630535-15a4fb54-54ad-4ed2-a328-98527fd94737.png
 
