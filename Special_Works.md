@@ -1,4 +1,8 @@
 ### 04.01.2023 (announcement Shortrack)
+- https://github.com/linkspreed/Shortrack/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 04.01.2023 (announcement Shortrack)
 - The launch of version 4.9.0 of **Shortrack** was successful! 🥳
 - The new update is live now :)
 - https://shortrack.tk 🔗
