@@ -1,3 +1,33 @@
+# 4.9.0 — 4 January 2023
+ - Added basic stats for the Links created by Guest Users
+ - Added the Plan features under the User Plan section
+ - Added translation ability for the Announcements content
+ - Improved the cron jobs system (updated command parameter to prevent file creation on some servers)
+ - Improved the unique Link alias generator functionality (increases one character if the alias already exists)
+ - Updated all the dependencies to their latest versions
+ - Fixed being able to Export Links when Data Export feature was unavailable
+ - Fixed several elements not being rendered correctly while on Dark Mode
+ - Fixed several missing language strings
+ - Other minor improvements
+
+# 4.8.0 — 4 January 2023
+ - Improved accessibility for the link shortener
+ - Improved the API key length (increased to 64 characters)
+ - Fixed the Search functionality not working for Pages in Admin Panel
+ - Fixed an issue with the Stats API endpoint when no resource ID was provided
+ - Other minor improvements
+
+# 4.7.0 — 28 July 2022
+ - Improved the cron jobs system
+ - Fixed the copy link button not working
+ - Other minor improvements
+
+# 4.6.0 — 22 July 2022
+ - Improved adding new custom Domains process: URL protocol is no longer required
+ - Fixed an issue preventing shortening Deep Links when Google Safe Browsing was enabled
+ - Fixed the Webhook fields not being saved
+ - Other minor improvements
+
 # 4.5.0 — 02 July 2022
  - Added new payment gateway: Paystack (checkout using a credit card)
  - Added new payment gateway: Razorpay (checkout using a credit card)
