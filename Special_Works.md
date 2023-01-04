@@ -1,4 +1,7 @@
 ### 04.01.2023 (announcement Shortrack)
+- We're still working on **Shortrack** and building a new logo/icon!
+
+### 04.01.2023 (announcement Shortrack)
 - https://github.com/linkspreed/Shortrack/blob/main/changelog.md
 - The entire changelog is now available on Github.
 
