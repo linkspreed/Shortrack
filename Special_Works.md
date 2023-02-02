@@ -1,3 +1,6 @@
+### 02.02.2023 (announcement Shortrack)
+-  **Shortrack** gets a big update today - we are going to launch v5.0. 😍
+
 ### 04.01.2023 (announcement Shortrack)
 - **Shortrack** development work is complete until the next update! 😎
 
