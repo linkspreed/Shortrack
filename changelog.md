@@ -1,3 +1,10 @@
+# 5.0.0 — 02 February 2023
+ - Improved the UI for the Pricing Plans
+ - Fixed the Visibility field being disabled when editing a Page from the Admin Panel
+ - Fixed the Payments filter not including Cancelled payments when searching by Invoice ID
+ - Fixed being able to shorten Links with Pixel IDs belonging to others
+ - Other minor improvements
+
 # 4.9.0 — 4 January 2023
  - Added basic stats for the Links created by Guest Users
  - Added the Plan features under the User Plan section
