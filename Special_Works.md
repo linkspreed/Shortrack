@@ -1,4 +1,7 @@
 ### 02.02.2023 (announcement Shortrack)
+- The servers are now ready for the launch of version 5.0 for **Shortrack**.
+
+### 02.02.2023 (announcement Shortrack)
 - The code is now ready for the launch of version 5.0 for **Shortrack**.
 
 ### 02.02.2023 (announcement Shortrack)
