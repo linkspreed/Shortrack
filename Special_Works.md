@@ -1,3 +1,6 @@
+### 26.06.2023 (announcement Shortrack)
+- 📢 Exciting news, everyone! 🎉 We've added Shortrack to our subdomain system, which means https://shortrack.tk now redirects to https://shortrack.linkspreed.com! 🚀 But don't worry, you can still use the platform as usual with all your existing data. 👍 Have you tried it yet? 🤔 #Shortrack #Linkspreed #Subdomain #NewFeature
+
 ### 02.02.2023 (announcement Shortrack)
 - https://github.com/linkspreed/Shortrack/blob/main/changelog.md
 - The entire changelog is now available on Github.
